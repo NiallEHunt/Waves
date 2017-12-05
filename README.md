@@ -7,3 +7,7 @@ Waves is a clasic wave survival game. You control your character (the white squa
 # Idea 
 I decided to follow this tutorial as it starts completely from scratch. Even the game loop is written from scratch. I thought it would be a good intro into game design.
 I plan to continue making small games and I'm working through my little stash of game development books and guides. I am currently working through "Beginning Java Game Development with libGDX".
+
+
+
+Created by Niall Hunt: www.linkedin.com/in/niallehunt
